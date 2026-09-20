@@ -33,7 +33,7 @@
 * 🗄️ SQL & Data Analytics
 * 📈 Power BI
 * 👁️ Computer Vision
-* ⚙️ AI Engineering & MLOps
+* ⚙️ AI Engineering & MLOps 
 
 ---
 
