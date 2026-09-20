@@ -39,12 +39,6 @@
 
 ### 🚀 Projects
 
-**🥊 Boxing AI**
-Real-time punch detection using Computer Vision, MediaPipe and Machine Learning.
-
-**🇳🇵 LokSewa AI**
-AI-powered platform focused on LokSewa exam preparation and current affairs.
-
 **🏦 Banking ML**
 Exploring real-world financial problems such as loan default prediction and credit risk.
 
