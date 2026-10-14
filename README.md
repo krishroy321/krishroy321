@@ -14,7 +14,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,sql&theme=dark" alt="Python, Java, C, C++, JavaScript, TypeScript, and SQL" />
+    <img src="https://skillicons.dev/icons?i=python,java,sql&theme=dark" alt="Python, Java, C, C++, JavaScript, TypeScript, and SQL" />
   </a>
 </p>
 
