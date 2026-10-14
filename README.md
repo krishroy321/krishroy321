@@ -20,7 +20,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode&theme=dark" alt="PyTorch, TensorFlow, OpenCV, PostgreSQL, MySQL, Git, GitHub, and VS Code" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,Power BI,git,github,vscode&theme=dark" alt="PyTorch, TensorFlow, OpenCV, PostgreSQL, MySQL, Git, GitHub, and VS Code" />
   </a>
 </p>
 
